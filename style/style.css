@@ -5,7 +5,7 @@
 /*the heading section*/
 
 .header{
-    background-image:url('/images/banner/banner1.png');
+    background-image:url('./images/gradient2.png');
     background-size: contain;
     background-repeat: no-repeat;
     height: 400px ;
@@ -91,10 +91,10 @@
         font-weight: 800;
                 }
 
-/* gradient section*/
 
+/* gradient section*/
 .gradient{
-    background-image:url('/images/watch.png');
+    background-image:url('./images/watch.png');
     background-size: contain;
     background-repeat: no-repeat;
     height: 200px;
