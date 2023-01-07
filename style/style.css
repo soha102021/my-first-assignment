@@ -5,9 +5,7 @@
 /*the heading section*/
 
 .header{
-    background-image:url('./images/gradient2.png');
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-color: skyblue;
     height: 400px ;
     padding: 200px;
     margin: 50px 150px;
@@ -94,10 +92,7 @@
 
 /* watch png section*/
 .watch-png{
-    background-image:url('./images/watch.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    height: 200px;
+    background-color: skyblue;
     margin: 0px 600px;
     margin-top: 100px;
     margin-bottom: 100px;
